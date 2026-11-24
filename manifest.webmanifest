@@ -1,0 +1,25 @@
+{
+  "name": "Holmstranda AS",
+  "short_name": "Holmstranda",
+  "description": "Holmstranda AS utfører grunnarbeid på Bjerka. Ring eller send e-post og fortell hva du trenger hjelp til.",
+  "lang": "nb",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#6b4f1d",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "maskable"
+    }
+  ]
+}
